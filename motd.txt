@@ -1,5 +1,4 @@
 Message of the day:
-Hey monkes!
-I revamped the lighting in level !.
-And there is some beta stuff in the shop.
-That's all, I think. I know, it's disappointing.
+Hey, sorry for the wait. Oculus Integration
+was being annoying, but it's fixed. And the 
+third person camera will be fixed, too.
