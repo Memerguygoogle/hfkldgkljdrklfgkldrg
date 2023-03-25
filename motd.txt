@@ -1,4 +1,3 @@
 Message of the day:
-Hey, sorry for the wait. Oculus Integration
-was being annoying, but it's fixed. And the 
-third person camera will be fixed, too.
+In the next update, the lighting might be bad because
+I tried to bake it. It would  be fixed the update after.
